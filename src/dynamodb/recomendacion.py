@@ -7,8 +7,8 @@ import json
 
 app = Flask(__name__)
 
-aws_access_key_id = 'AKIAXULE6EH74VUYNIO7'
-aws_secret_access_key = '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'
+aws_access_key_id = ''
+aws_secret_access_key = ''
 region_name = 'us-east-1'
 table_name = 'Dynamo-LV-1'
 
